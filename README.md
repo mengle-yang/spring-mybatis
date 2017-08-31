@@ -1,1 +1,1 @@
-# spring_mybatis
+# spring-mybatis
